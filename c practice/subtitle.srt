@@ -1,0 +1,1321 @@
+
+1
+00:00:20,208 --> 00:00:22,320
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Bahut time ho gaya, Flamme.</font></b>
+
+2
+00:00:44,608 --> 00:00:53,035
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª â™ª â™ª</font></b>
+
+3
+00:00:53,416 --> 00:00:57,040
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Tu udhar hai jaise hawa â™ª</font></b>
+
+4
+00:00:57,245 --> 00:01:01,265
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Suraj ast ho raha hai, tu ankhein band karke â™ª</font></b>
+
+5
+00:01:01,862 --> 00:01:07,206
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Soch raha hoon tere mann mein kya chal raha hai â™ª</font></b>
+
+6
+00:01:08,411 --> 00:01:12,125
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Friren: Beyond Journey's End</font></b>
+
+7
+00:01:12,284 --> 00:01:15,900
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Ankhen khol ke dekh â™ª</font></b>
+
+8
+00:01:16,098 --> 00:01:20,134
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Teri aankhen kanch ki tarah chamak rahi thi â™ª</font></b>
+
+9
+00:01:20,674 --> 00:01:27,165
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Mehka mehka sa tha jaise ek sunny day â™ª</font></b>
+
+10
+00:01:27,255 --> 00:01:33,195
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª â™ª â™ª</font></b>
+
+11
+00:01:33,482 --> 00:01:38,645
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Aasman ko saaf kar, phool khila â™ª</font></b>
+
+12
+00:01:38,740 --> 00:01:42,522
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Aur use daal us sunny sky par â™ª</font></b>
+
+13
+00:01:42,824 --> 00:01:47,071
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Baarish bhi, jab rukti hai â™ª</font></b>
+
+14
+00:01:47,257 --> 00:01:51,778
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Tujhe chamka degi sunlight mein â™ª</font></b>
+
+15
+00:01:52,248 --> 00:01:57,480
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Shant karo dil ki gungunatein â™ª</font></b>
+
+16
+00:01:57,561 --> 00:02:01,383
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Hum jaise sunny wind ke saath jaate hain â™ª</font></b>
+
+17
+00:02:01,693 --> 00:02:05,930
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Aur aage badh, woh cloud par ud ja â™ª</font></b>
+
+18
+00:02:06,070 --> 00:02:10,760
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Aur aur door ja â™ª</font></b>
+
+19
+00:02:13,980 --> 00:02:16,990
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Episode 21: "Magic ka Duniya"</font></b>
+
+20
+00:02:21,740 --> 00:02:22,960
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Bargland.</font></b>
+
+21
+00:02:43,579 --> 00:02:46,717
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Yeh jawan bhot joshila hote hain.</font></b>
+
+22
+
+23
+00:02:48,283 --> 00:02:50,130
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Privilege naam ki koi baat nahi hai.</font></b>
+
+24
+00:02:51,587 --> 00:02:53,880
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tum kyun keh rahe ho yeh?</font></b>
+
+25
+00:02:54,623 --> 00:02:56,930
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Magic ka sabse bada maza
+usko dhoondhne mein hai.</font></b>
+
+26
+00:03:04,156 --> 00:03:05,634
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Bas itna.</font></b>
+
+27
+00:03:06,332 --> 00:03:07,040
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Achha.</font></b>
+
+28
+00:03:09,964 --> 00:03:12,648
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Time bahut jaldi chala jaata hai.</font></b>
+
+29
+00:03:13,763 --> 00:03:17,584
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Maine jo student tain karna decide kiya tha,
+woh apne student ke saath aa gaya hai.</font></b>
+
+30
+00:03:18,671 --> 00:03:19,670
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Yeh hai Frieren.</font></b>
+
+31
+00:03:21,095 --> 00:03:21,910
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Ek elf, huh?</font></b>
+
+32
+00:03:23,129 --> 00:03:25,430
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Woh strong hai. Mujhe pasand hai.</font></b>
+
+33
+00:03:27,714 --> 00:03:29,830
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Batao kaunsa spell chahiye tumhe.</font></b>
+
+34
+00:03:30,113 --> 00:03:31,630
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Main tumhe sirf ek dene wala hoon.</font></b>
+
+35
+00:03:33,173 --> 00:03:34,570
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Mujhe chahiye wala spell?</font></b>
+
+36
+00:03:35,406 --> 00:03:40,552
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Mere paas nearly har grimoire
+ki knowledge hai jo likha gaya hai.</font></b>
+
+37
+00:03:41,745 --> 00:03:47,561
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Mages apni poori life
+mein spell dhoondhne mein guzar dete hain.</font></b>
+
+38
+00:03:48,568 --> 00:03:51,340
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Batao tumhara kaunsa hai,
+aur main tumhe woh doonga.</font></b>
+
+39
+00:03:52,565 --> 00:03:53,160
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Mujhe kuch nahi chahiye.</font></b>
+
+40
+00:03:55,999 --> 00:03:59,700
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Magic ka sabse bada maza
+usko dhoondhne mein hai.</font></b>
+
+41
+00:04:01,519 --> 00:04:04,807
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Flamme, is ladki mein dum nahi hai.</font></b>
+
+42
+00:04:05,668 --> 00:04:08,970
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Usmein ek josh wala lakshya nahi hai.</font></b>
+
+43
+00:04:10,004 --> 00:04:14,580
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Master, kuch din baad yeh ladki
+Damon King ko harayegi.</font></b>
+
+44
+00:04:16,495 --> 00:04:20,534
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Aisa ek mage hoga jo
+shanti ka daur banayega.</font></b>
+
+45
+00:04:21,351 --> 00:04:23,320
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Kya tum keh rahe ho main nahi kar sakta?</font></b>
+
+46
+00:04:23,813 --> 00:04:27,497
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Ek jo battle dhundhta hai,
+woh Damon King ko nahi maar sakta.</font></b>
+
+47
+00:04:28,270 --> 00:04:30,121
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Hum nahi kar sakte.</font></b>
+
+48
+00:04:32,117 --> 00:04:37,778
+<b><font face="Adobe Fangsong Std R" color="#00fffc">After all, tum apne aap ko
+ek shant daur mein rehne ka kalpana nahi kar sakte, na?</font></b>
+
+49
+00:04:41,387 --> 00:04:44,230
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Frieren ek mage hai ek shant daur ka.</font></b>
+
+50
+00:04:51,475 --> 00:04:52,064
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Achha jawab.</font></b>
+
+51
+00:04:53,366 --> 00:04:55,470
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Yehi hai mages ko kaise hona chahiye.</font></b>
+
+52
+00:05:09,411 --> 00:05:12,826
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Kuch bhi nahi ruk raha. Woh bilkul bhi freeze nahi ho raha hai.</font></b>
+
+53
+00:05:13,400 --> 00:05:15,198
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Hamara mana ka farq bahut zyada hai.</font></b>
+
+54
+00:05:16,121 --> 00:05:16,960
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Nephtear.</font></b>
+
+55
+00:05:25,256 --> 00:05:26,610
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Bilkul bhi nahi.</font></b>
+
+56
+00:05:30,283 --> 00:05:31,094
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Kanne, defense!</font></b>
+
+57
+00:05:31,459 --> 00:05:32,140
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Pata hai!</font></b>
+
+58
+00:05:35,719 --> 00:05:37,920
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tum dono ne pehle hi kaafi kuch dikhaya tha,</font></b>
+
+59
+00:05:38,578 --> 00:05:41,129
+<b><font face="Adobe Fangsong Std R" color="#00fffc">toh maine bahut kuch tumhare tricks ke baare mein samajh liya hai.</font></b>
+
+60
+00:05:45,260 --> 00:05:47,660
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Relatively non-lethal ice magic,</font></b>
+
+61
+00:05:48,685 --> 00:05:51,190
+<b><font face="Adobe Fangsong Std R" color="#00fffc">aur ek mage jo bina paani ke lad nahi sakta.</font></b>
+
+62
+00:05:53,904 --> 00:05:55,850
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Main yahaan kya kar raha hoon?</font></b>
+
+63
+00:05:56,526 --> 00:05:58,845
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Yeh sach mein bas babysitting hai.</font></b>
+
+64
+00:06:05,657 --> 00:06:07,170
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tum pehle hi thak gaye ho</font></b>
+
+65
+00:06:07,773 --> 00:06:12,473
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Itne flashy spells cast karte karte.</font></b>
+
+66
+00:06:13,738 --> 00:06:16,130
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tumne magic school se graduate kiya tha, na?</font></b>
+
+67
+00:06:16,963 --> 00:06:22,404
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Kya purane log abhi bhi apne students ko
+attrition wale defensive battles ladhaane sikhate hain?</font></b>
+
+68
+00:06:23,247 --> 00:06:24,098
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tum kya keh rahe ho?</font></b>
+
+69
+00:06:25,145 --> 00:06:27,900
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Chalo, main tumhe magic ki history pe ek lecture doon.</font></b>
+
+70
+00:06:29,660 --> 00:06:36,530
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Zoltraak ke khilaf develop kiye gaye
+defensive spell ne magic khud ke prati high resistance rakha hai,</font></b>
+
+71
+00:06:37,213 --> 00:06:41,821
+<b><font face="Adobe Fangsong Std R" color="#00fffc">par uska asar physical objects ke khilaf
+bahut kam badla hai tab se.</font></b>
+
+72
+00:06:42,698 --> 00:06:45,373
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Naturally, iske peeche ek clear reason hai.</font></b>
+
+73
+00:06:46,789 --> 00:06:52,170
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Ismein kaafi hai physical
+attacks ke khilaf monsters aur warriors ke.</font></b>
+
+74
+00:06:53,149 --> 00:06:55,964
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Defensive magic ko over-engineer nahi karna chahiye.</font></b>
+
+75
+00:06:56,956 --> 00:06:59,921
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Agar hum perfection ki taraf jaayein,
+toh technique bahut complex ho jaayegi,</font></b>
+
+76
+00:07:00,580 --> 00:07:03,720
+<b><font face="Adobe Fangsong Std R" color="#00fffc">aur casters ko fast reaction time ki zarurat padegi.</font></b>
+
+77
+00:07:04,448 --> 00:07:08,378
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Zoltraak ke khilaf resistance ki pehli line,
+ek simple aur effective spell hai.</font></b>
+
+78
+00:07:09,670 --> 00:07:11,600
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Lekin jab woh fail ho jaata hai,</font></b>
+
+79
+00:07:12,229 --> 00:07:15,035
+<b><font face="Adobe Fangsong Std R" color="#00fffc">toh mages ko khud ko bachane ka</font></b>
+
+80
+00:07:15,389 --> 00:07:17,990
+<b><font face="Adobe Fangsong Std R" color="#00fffc">aur counter attack karne ka tareeka seekhna padta hai.</font></b>
+
+81
+00:07:18,838 --> 00:07:20,720
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Phir aata hai offensive magic ka concept.</font></b>
+
+82
+00:07:21,635 --> 00:07:24,985
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Ladne ka goal nahi hai sirf defend karna hi,</font></b>
+
+83
+00:07:25,307 --> 00:07:27,630
+<b><font face="Adobe Fangsong Std R" color="#00fffc">balke apne opponent ko khatam karna bhi hai.</font></b>
+
+84
+00:07:28,220 --> 00:07:31,350
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Defensive aur offensive magic mein balance hona chahiye.</font></b>
+
+85
+00:07:32,051 --> 00:07:34,120
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Aur sabse important baat, experience.</font></b>
+
+86
+00:07:34,763 --> 00:07:38:010
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Jo theory books mein nahi hota,</font></b>
+
+87
+00:07:38,320 --> 00:07:40,490
+<b><font face="Adobe Fangsong Std R" color="#00fffc">woh practical battles mein aata hai.</font></b>
+
+88
+00:07:41,290 --> 00:07:42,643
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Jab tak tum khud battle mein nahi ladoge,</font></b>
+
+89
+00:07:43,013 --> 00:07:44,720
+<b><font face="Adobe Fangsong Std R" color="#00fffc">tumhe kabhi bhi perfect mage nahi ban sakte.</font></b>
+
+90
+00:07:45,320 --> 00:07:46,648
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Samajh gaye?</font></b>
+
+91
+00:07:47,065 --> 00:07:49,530
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tumhe jis tarah se magic use karna aata hai,</font></b>
+
+92
+00:07:50,130 --> 00:07:52,220
+<b><font face="Adobe Fangsong Std R" color="#00fffc">woh mere liye toh naya hai.</font></b>
+
+93
+00:07:53,070 --> 00:07:55,710
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Lekin mere paas ek lesson hai jo maine</font></b>
+
+94
+00:07:56,240 --> 00:07:57,850
+<b><font face="Adobe Fangsong Std R" color="#00fffc">bahut time se seekha hai.</font></b>
+
+95
+00:07:58,290 --> 00:08:00,823
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Battle mein kabhi bhi underestimate mat karna.</font></b>
+
+96
+00:08:01,278 --> 00:08:04,310
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Aakhirat mein, koi bhi powerful spell</font></b>
+
+97
+00:08:04,745 --> 00:08:07,370
+<b><font face="Adobe Fangsong Std R" color="#00fffc">ek simple aur effective spell ko hi hara dega,</font></b>
+
+98
+00:08:07,833 --> 00:08:10,358
+<b><font face="Adobe Fangsong Std R" color="#00fffc">agar woh effective tareeke se cast kiya gaya ho.</font></b>
+
+99
+00:08:10,950 --> 00:08:11,760
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Toh, ladne ka mood hai?</font></b>
+
+100
+00:08:12,155 --> 00:08:15,070
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Nahi, mood nahi hai.</font></b>
+101
+00:08:42,786 --> 00:08:44,570
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tum itna kyun dare ho?</font></b>
+
+102
+00:08:48,704 --> 00:08:50,140
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Apne aap ko sambhalo.</font></b>
+
+103
+00:08:51,674 --> 00:08:54,376
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Mera kaam sirf tum dono ko sone mein dhalna hai.</font></b>
+
+104
+00:08:55,489 --> 00:08:57,500
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Sirf Denken haar na jaaye.</font></b>
+
+105
+00:09:11,284 --> 00:09:14,540
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Is raftar se, yeh yudh tab khatam hoga
+jab usne mera mana khatam kar diya.</font></b>
+
+106
+00:09:16,527 --> 00:09:18,878
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Yeh mere purane jism ke liye thoda kathin hai.</font></b>
+
+107
+00:09:19,370 --> 00:09:23,350
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Maazrat chaahta hoon, Frieren, lekin main
+issey jaldi khatam kar raha hoon.</font></b>
+
+108
+00:09:26,115 --> 00:09:27,380
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Waldgose.</font></b>
+
+109
+00:09:29,636 --> 00:09:30,880
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Daosdorg.</font></b>
+
+110
+00:09:37,820 --> 00:09:41,130
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Woh burhape ka aadmi kya kar raha hai?</font></b>
+
+111
+00:09:42,188 --> 00:09:44,763
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Woh budha kafi shandar taur par ladta hai.</font></b>
+
+112
+00:09:45,406 --> 00:09:47,350
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Kya barrier tik rahegi?</font></b>
+
+113
+00:09:47,512 --> 00:09:52,890
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Bilkul. Barrier ko mahaa jadoo Serie ne banaya hai.</font></b>
+
+114
+00:09:53,582 --> 00:09:56,350
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Yeh brute force se nahi todi ja sakti.</font></b>
+
+115
+00:09:56,626 --> 00:09:58,940
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Oh? Toh theek hai, phir.</font></b>
+
+116
+00:09:59,835 --> 00:10:02,030
+<b><font face="Adobe Fangsong Std R" color="#00fffc">By the way, lagta hai kal raat se koi
+barrier ko analyze kar raha hai.</font></b>
+
+117
+00:10:02,425 --> 00:10:04,890
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Kya mumkin hai?</font></b>
+
+118
+00:10:05,841 --> 00:10:07,130
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Mujhe nahi pata.</font></b>
+
+119
+00:10:07,366 --> 00:10:08,295
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Phir bhi, woh apna waqt zaaya kar rahe hain.</font></b>
+
+120
+00:10:09,203 --> 00:10:11,490
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Kya sach mein is duniya mein koi
+Serie se bada jadoo karne wala hai?</font></b>
+
+121
+00:10:12,444 --> 00:10:15,790
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Katastravia.</font></b>
+
+122
+00:10:25,210 --> 00:10:26,650
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Namumkin. Counterattack?</font></b>
+
+123
+00:10:35,528 --> 00:10:37,820
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Namumkin. Yeh ek continuous barrage
+of light spears tha.</font></b>
+
+124
+00:10:38,077 --> 00:10:40,290
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Usko mauka nahi milna chahiye tha.</font></b>
+
+125
+00:10:40,490 --> 00:10:41,974
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Usne basich ladai ke jadoo tak hi use kiya.</font></b>
+
+126
+00:10:59,352 --> 00:11:02,893
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Mera mana khatam ho gaya hai. Toh yeh hai ant.</font></b>
+
+127
+00:11:03,737 --> 00:11:04,689
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Mujhe yakeen nahi ho raha.</font></b>
+
+128
+00:11:05,264 --> 00:11:09,449
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Usne sirf basic ladai ke
+jadoo hi istemal kiya.</font></b>
+
+129
+00:11:10,767 --> 00:11:15,638
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Yeh practically ek trainee mage ke liye ladai ka sabak tha.</font></b>
+
+130
+00:11:17,011 --> 00:11:18,013
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Mujhe surprise hua.</font></b>
+
+131
+00:11:18,997 --> 00:11:22,209
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Mere level par bhi koi hai
+jo mujhse aage hai.</font></b>
+
+132
+00:11:22,750 --> 00:11:24,385
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Batao Laufen kahaan hai.</font></b>
+
+133
+00:11:25,331 --> 00:11:26,727
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Mujhe pata hai tumhe pata hai.</font></b>
+
+134
+00:11:27,412 --> 00:11:28,896
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Main humara Stille wapas le raha hoon.</font></b>
+
+135
+00:11:30,400 --> 00:11:34,054
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Agar tum meri jagah hote,
+toh kya tum mujhe bataate?</font></b>
+
+136
+00:11:35,118 --> 00:11:35,866
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tum sahi ho.</font></b>
+
+137
+00:11:46,668 --> 00:11:49,631
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Laufen, tu kahin chhupa hai na?</font></b>
+
+138
+00:11:50,341 --> 00:11:52,360
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Stille yahaan lekar aa.</font></b>
+
+139
+00:11:53,756 --> 00:11:56,306
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Agar nahi laya, toh main Denken ko maar doonga.</font></b>
+
+140
+00:11:57,301 --> 00:12:00,994
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Mat kar, Laufen.
+Uski iraada mujhe marna nahi hai.</font></b>
+
+141
+00:12:01,605 --> 00:12:02,570
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tum samajh sakte ho, na?</font></b>
+
+142
+00:12:02,797 --> 00:12:04,179
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Budhe ke sharir ko chhune wali nahi hai.</font></b>
+
+143
+00:12:04,619 --> 00:12:09,860
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Jilwer ka istemaal mat karo. Chhupa rahe raho.</font></b>
+
+144
+00:12:14,907 --> 00:12:18,933
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Thoda mana bhi chhodo, toh woh tumhe pehchan legi.</font></b>
+
+145
+00:12:19,658 --> 00:12:22,532
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Is doori se, main budhe ko lekar bhaag sakta hoon!</font></b>
+
+146
+00:12:23,123 --> 00:12:26,266
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Mat karo. Yeh ek jaal hai.</font></b>
+
+147
+00:12:26,547 --> 00:12:28,350
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tum mujhe koi choice nahi chhodte.</font></b>
+
+148
+00:12:28,588 --> 00:12:29,977
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tum mujhe koi choice nahi chhodte.</font></b>
+
+149
+00:12:30,290 --> 00:12:31,779
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Yeh kaise mumkin hai?</font></b>
+
+150
+00:12:31,979 --> 00:12:34,540
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Yeh Laufen ka plan hai.</font></b>
+
+151
+00:12:30,542 --> 00:12:32,980
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Mujhe yeh sachmuch nahi karna tha, lekin...</font></b>
+
+152
+00:12:35,459 --> 00:12:36,062
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Pakad liya.</font></b>
+
+153
+00:12:39,084 --> 00:12:40,113
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Bewakoof.</font></b>
+
+154
+00:12:43,874 --> 00:12:45,460
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tum anubhavi bewakoof ho.</font></b>
+
+155
+00:12:45,627 --> 00:12:48,622
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tumhe pata tha ki woh mujhe nahi maar payegi.</font></b>
+
+156
+00:12:49,384 --> 00:12:53,834
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Lekin usne tumhe chot pahunchane ka iraada kiya.</font></b>
+
+157
+00:12:54,604 --> 00:12:57,313
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Hum jeet jaate phir bhi.</font></b>
+
+158
+00:12:59,236 --> 00:13:03,330
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tum itna desperate kyun ho
+ek first-class mage banne ke liye?</font></b>
+
+159
+00:13:03,746 --> 00:13:07,289
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tumhare paas dhan, prabhav,
+aur har cheez hai jo tum chaho.</font></b>
+
+160
+00:13:13,019 --> 00:13:16,490
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Mera janmasthan gehre uttar
+ka maidan mein sthit hai.</font></b>
+
+161
+00:13:17,562 --> 00:13:22,621
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Kyunki daitya vyavhaar
+badh gaya hai, ab wahaan sirf first-class mages ja sakte hain.</font></b>
+
+162
+00:13:24,012 --> 00:13:26,571
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Main ek samay ke liye ek
+kabristan ko jaana chahta tha jo maine lambi der se nahi dekha tha.</font></b>
+
+163
+00:13:27,414 --> 00:13:28,430
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Bas itna.</font></b>
+
+164
+00:13:30,274 --> 00:13:33,094
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tum bachchon ki madad nahi karoge kya?</font></b>
+
+165
+00:13:34,675 --> 00:13:37,528
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Shayad der ho chuki ho, lekin.</font></b>
+
+166
+00:13:38,171 --> 00:13:42,239
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Richter unhe maar dega
+tabhi jab woh tumse milne ke liye aaega.</font></b>
+
+167
+00:13:43,159 --> 00:13:46,346
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Usme pragatisheel chunautiyan lene ki kshamata hai.</font></b>
+
+168
+00:13:47,180 --> 00:13:50,223
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Woh theek honge. Kanne aur Lawine jeetenge.</font></b>
+
+169
+00:13:52,838 --> 00:13:54,983
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Maine abhi abhi bandish ka anushilan khatam kiya hai.</font></b>
+
+170
+00:13:57,993 --> 00:14:00,280
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Maine Denken ko haarna
+ummid nahi ki thi.</font></b>
+
+171
+00:14:01,442 --> 00:14:02,291
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Toh ab.</font></b>
+
+172
+00:14:03,420 --> 00:14:05,908
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Babysitting ka samay khatam ho gaya hai.</font></b>
+
+173
+00:14:31,903 --> 00:14:34,157
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Usne ab humein sachmuch maarna shuru kiya hai.</font></b>
+
+174
+00:14:34,896 --> 00:14:36,682
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Hum ek minute bhi uske khilaaf nahi tikenge.</font></b>
+
+175
+00:14:38,282 --> 00:14:40,050
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Bandish ka anushilan?</font></b>
+
+176
+00:14:40,689 --> 00:14:41,848
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Matlab kya hai?</font></b>
+
+177
+00:14:45,296 --> 00:14:48,617
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Frieren. Yeh mat kehna, tune...</font></b>
+
+178
+00:14:58,240 --> 00:14:59,027
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Genau.</font></b>
+
+179
+00:15:00,218 --> 00:15:02,982
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Yeh ek problem nahi, yeh toh asambhav hai.</font></b>
+
+180
+00:15:03,847 --> 00:15:05,770
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Agar duniya ulta ho jaaye bhiâ€”</font></b>
+
+181
+00:15:13,526 --> 00:15:14,516
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Yeh toot jayega.</font></b>
+
+182
+00:15:21,541 --> 00:15:25,980
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Sense, yeh kaunsi elf mage hai?</font></b>
+
+183
+00:15:27,015 --> 00:15:30,097
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Test dene vaalon ki soochi ke mutaabiq,
+uska naam Frieren hai.</font></b>
+
+184
+00:15:31,082 --> 00:15:33,740
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Yeh woh mage hai jo veer dal ke saath ghoomti thi.</font></b>
+
+185
+00:15:34,330 --> 00:15:37,800
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Uske paas apparently ek pavitra pratik bhi tha.</font></b>
+
+186
+00:15:38,661 --> 00:15:41,170
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Toh woh antim mahatvaakanksha mage hai.</font></b>
+
+187
+00:15:42,221 --> 00:15:43,960
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Ab toh tune kar hi diya, Frieren.</font></b>
+
+188
+00:15:44,723 --> 00:15:48,400
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Hazaar saal ho gaye,
+aur yahi tera swagat hai?</font></b>
+
+189
+00:15:49,882 --> 00:15:52,342
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Isiliye main mage banna chhod nahi sakta.</font></b>
+
+190
+00:15:53,266 --> 00:15:57,276
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Jaadu ka duniya mein,
+kabhi-kabhi duniya ulta ho jaati hai.</font></b>
+
+191
+00:15:58,669 --> 00:16:01,987
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Main yeh nahi samajh sakta ki tune
+bandish ko kyun tod diya.</font></b>
+
+192
+00:16:02,521 --> 00:16:03,799
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tumne aisa kyun kiya?</font></b>
+
+193
+00:16:04,587 --> 00:16:06,477
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Kyunki mujhe Kanne par daya aayi.</font></b>
+
+194
+00:16:07,376 --> 00:16:09,280
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Jaadu ko mukt hona chahiye.</font></b>
+
+195
+00:16:10,100 --> 00:16:12,444
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Woh paani ko niyantrit karti hai, hai na?</font></b>
+
+196
+00:16:13,777 --> 00:16:15,610
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Jaadu ek drishtikona
+kalpana ka duniya hai.</font></b>
+
+197
+00:16:16,632 --> 00:16:20,610
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Kya tum imagine kar sakte ho ki
+barish mein paani ko niyantrit karke ek mage ko haraaya jaaye?</font></b>
+
+198
+00:16:21,733 --> 00:16:23,447
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Kam se kam, main nahi kar sakta.</font></b>
+
+200
+00:16:27,745 --> 00:16:28,539
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Bandish...</font></b>
+201
+00:16:29,971 --> 00:16:30,947
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Kya hua?</font></b>
+
+202
+00:16:31,638 --> 00:16:32,250
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Baarish ho rahi hai.</font></b>
+
+203
+00:16:33,092 --> 00:16:35,364
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Nahi, main baad mein samajh lunga kya hua.</font></b>
+
+204
+00:16:36,190 --> 00:16:37,650
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Ab main unhe khatam karna hogaâ€”</font></b>
+
+205
+00:16:38,431 --> 00:16:40,478
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tumne ab ek opening dikhaya hai.</font></b>
+
+206
+00:16:41,171 --> 00:16:43,010
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tumhari pareshani tumhare mana ko kharab kar rahi hai.</font></b>
+
+207
+00:16:43,010 --> 00:16:45,100
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Yeh sirf tumhe waqt kharid lega!</font></b>
+
+208
+00:16:48,257 --> 00:16:53,780
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Ab samajh aaya tumhe ki
+paani ko control karne wala spell se kyun darte ho.</font></b>
+
+209
+00:16:54,986 --> 00:17:00,530
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Yeh hai high-volume physical attacks ka
+perfect example jo tumne mention kiya tha.</font></b>
+
+210
+00:17:01,199 --> 00:17:04,280
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Lawine, use ko bachne mat dena.</font></b>
+
+211
+00:17:05,084 --> 00:17:06,420
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Reamstroha.</font></b>
+
+212
+00:17:09,494 --> 00:17:11,920
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Mujhe kahi bhaagne ka koi jagah nahi hai, anyway.</font></b>
+
+213
+00:17:14,960 --> 00:17:17,090
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Isiliye mujhe paani pasand nahi hai.</font></b>
+
+214
+00:17:31,581 --> 00:17:32,910
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Lagta hai tum jeet gaye ho.</font></b>
+
+215
+00:17:33,640 --> 00:17:35,172
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Chalo yahaan se chalte hain.</font></b>
+
+216
+00:17:35,880 --> 00:17:37,700
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Suraj do ghante mein doob jayega.</font></b>
+
+217
+00:17:37,858 --> 00:17:39,700
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tum apna mana us samay tak chhupa sakte ho, na?</font></b>
+
+218
+00:17:40,082 --> 00:17:42,307
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Mere paas chhupane ke liye koi mana nahi bacha hai.</font></b>
+
+219
+00:17:43,108 --> 00:17:44,928
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Samajh gaya. Tumne achha kiya.</font></b>
+
+220
+00:17:46,359 --> 00:17:47,170
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Mujhe sir par mat chhoo.</font></b>
+
+221
+00:17:51,379 --> 00:17:51,920
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Sorry.</font></b>
+
+222
+00:17:53,716 --> 00:17:54,902
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Yeh toh anivary tha.</font></b>
+
+223
+00:18:00,619 --> 00:18:02,837
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Denken aur mera mana khatam ho gaya hai.</font></b>
+
+224
+00:18:05,642 --> 00:18:07,102
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Humein do ghante bache hain.</font></b>
+
+225
+00:18:07,596 --> 00:18:09,090
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Hum khatam ho gaye hain.</font></b>
+
+226
+00:18:12,619 --> 00:18:14,698
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Laufen, kya tum binding ko khatam kar sakti ho?</font></b>
+
+227
+00:18:15,333 --> 00:18:18,765
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tum mazaak kar rahi ho.
+Yeh binding spell bahut shaktishaali hai.</font></b>
+
+228
+00:18:20,013 --> 00:18:22,555
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Toh ped ko giraa do thik hai.</font></b>
+
+229
+00:18:31,566 --> 00:18:33,390
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Denken, hum kuch nahi kar sakte </font></b>
+
+
+230
+00:18:34,363 --> 00:18:38,063
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Mujhe Jilwer use karne ke liye mana nahi bacha.</font></b>
+
+231
+00:18:39,304 --> 00:18:45,492
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Richter aur Laufen, tum kya sochte ho
+ek samay mein is sthiti mein hote hue ek sasan mage karta hai?</font></b>
+
+232
+00:18:46,835 --> 00:18:49,550
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Wo ant tak ladta hai.</font></b>
+
+233
+00:18:51,483 --> 00:18:55,560
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Hum doosre parties ke ladaiyon ke sanket
+dhoondhenge aur unka peecha karenge.</font></b>
+
+234
+00:18:57,512 --> 00:18:58,810
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Pata nahi, Fern,</font></b>
+
+235
+00:18:59,506 --> 00:19:01,870
+<b><font face="Adobe Fangsong Std R" color="#00fffc">tum sach mein kaafi bore karne wale ho.</font></b>
+
+236
+00:19:04,226 --> 00:19:07,090
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tum sach mein sirf basic spells hi cast karte ho.</font></b>
+
+237
+00:19:07,483 --> 00:19:09,760
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tum apni shikayaten Frieren madam se kyun nahi kehte?</font></b>
+
+238
+00:19:11,216 --> 00:19:14,620
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Achha yaad aaya,
+wo elf tumhari master hai, right?</font></b>
+
+239
+00:19:17,518 --> 00:19:20,291
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Usi ki wajah se hum ab bhig gaye hain.</font></b>
+
+240
+00:19:20,767 --> 00:19:22,620
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Dhyan rakhna, tum usse thoda sa samjha dena, thik hai?</font></b>
+
+241
+00:19:23,698 --> 00:19:24,970
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Main toh aisa hi karne wala hoon.</font></b>
+
+242
+00:19:26,233 --> 00:19:29,820
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Aur woh bahar yudh ke alawa kisi spell ki sima
+nahi lagati hai mere dwara cast hone par.</font></b>
+
+243
+00:19:30,817 --> 00:19:34,120
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Achha yaad aaya, tune us panchhi ko pakadne ke liye
+ek spell cast kiya tha.</font></b>
+
+244
+00:19:34,822 --> 00:19:36,820
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Aur tere pass aur kya-kya spells hain?</font></b>
+
+245
+00:19:37,370 --> 00:19:38,910
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Chalo dekhte hain...</font></b>
+
+246
+00:19:39,531 --> 00:19:41,930
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Mere pass ek spell hai jo tumhe
+kapde ke through dekhne ka anumati deta hai...</font></b>
+
+247
+00:19:43,364 --> 00:19:44,650
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Main use cast nahi kar raha.</font></b>
+
+248
+00:19:45,740 --> 00:19:49,187
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Main toh yehi keh raha hoon ki
+tum apne bahut se raaz mat kholo.</font></b>
+
+249
+00:19:49,775 --> 00:19:52,470
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Dusre test se lekar,
+hum ek doosre ke khilaaf takraayenge.</font></b>
+
+250
+00:19:53,083 --> 00:19:56,750
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Doosre test se lekar,</font></b>
+
+250
+00:19:53,083 --> 00:19:56,750
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Doosre test se lekar,</font></b>
+
+251
+00:19:57,761 --> 00:19:59,843
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Sahi kaha.</font></b>
+
+252
+00:20:00,463 --> 00:20:01,600
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Maaf kardo.</font></b>
+
+253
+00:20:02,750 --> 00:20:06,590
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Lekin maine socha tumhe thoda or khul ke baat karna chahiye tha, chashmish.</font></b>
+
+254
+00:20:11,699 --> 00:20:12,603
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Yahaan hain woh.</font></b>
+
+255
+00:20:13,022 --> 00:20:14,662
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Yeh hai ek hara hua party.</font></b>
+
+256
+00:20:15,394 --> 00:20:18,585
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Ek unke sadasya ka laash unke pass tha.</font></b>
+
+257
+00:20:19,121 --> 00:20:24,530
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Bina kisi raste ke, woh apne Stille ko kathin roop se pakadte hain.</font></b>
+
+258
+00:20:28,922 --> 00:20:31,068
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Kya hum unke saath samjhota karenge, Denken?</font></b>
+
+259
+00:20:31,560 --> 00:20:32,960
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Woh sahayog nahi karenge.</font></b>
+
+260
+00:20:33,197 --> 00:20:37,670
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Agar main unki jagah hota, to main paisa bhi refuse karta.</font></b>
+
+261
+00:20:38,338 --> 00:20:38,987
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Kyun?</font></b>
+
+262
+00:20:39,822 --> 00:20:42,040
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Woh meri jagah nahi hota.</font></b>
+
+263
+00:20:42,331 --> 00:20:44,220
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Yeh logic ki baat nahi hai.</font></b>
+
+264
+00:20:46,039 --> 00:20:47,960
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Laufen, yahaan raho.</font></b>
+
+265
+00:20:48,183 --> 00:20:50,190
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Agar tumhe koi mauka dikhe, to unki Stille le lena.</font></b>
+
+266
+00:20:50,408 --> 00:20:52,140
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Richter, mere saath aao.</font></b>
+
+267
+00:20:53,365 --> 00:20:54,833
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tum kya karne wale ho?</font></b>
+
+268
+00:21:05,887 --> 00:21:07,689
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Hum sidhe unke paas jaa rahe hain?</font></b>
+
+269
+00:21:08,165 --> 00:21:10,240
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Hamare paas koi mana nahi bacha hua hai.</font></b>
+
+270
+00:21:11,717 --> 00:21:13,450
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Kya tum samajh nahi rahe ho?</font></b>
+
+271
+00:21:14,991 --> 00:21:17,636
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Woh bhi waisa hi hain.</font></b>
+
+272
+00:21:26,246 --> 00:21:27,750
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Apne aap ko taiyaar karo.</font></b>
+
+273
+00:21:32,245 --> 00:21:33,890
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tum ek mard ho, sahi?</font></b>
+
+274
+00:21:35,629 --> 00:21:36,970
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tum mazaak kar rahe ho, sahi?</font></b>
+
+275
+00:21:39,816 --> 00:21:43,870
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Chalo, isko hum apni fist se settle karte hain!</font></b>
+
+276
+00:21:45,656 --> 00:21:52,087
+<font face="Roboto Medium" color="#ff35ed">-Subtitle by- </font>
+<font face="COM4t Fine Regular"><b><font face="Chaparral Pro"><font face="Centaur" color="#00fffc">LoOny Leen</font></font></b></font>
+
+277
+00:22:10,641 --> 00:22:11,443
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Ab samay aa gaya hai.</font></b>
+
+278
+00:22:13,752 --> 00:22:17,400
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Ab samay aa gaya hai.</font></b>
+
+279
+00:22:18,399 --> 00:22:22,270
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Pahla test ab khatam hua hai.</font></b>
+
+280
+00:22:23,015 --> 00:22:24,438
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Dusra test teen din baad hoga.</font></b>
+
+281
+00:22:25,398 --> 00:22:27,850
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Aapko baad mein vistar se suchit kiya jayega.</font></b>
+
+282
+00:22:29,118 --> 00:22:31,050
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Bas, aap chhutti ho gaye hain.</font></b>
+
+283
+00:22:34,305 --> 00:22:37,332
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Unhone pariksha ke liye do din ho gaye hain.</font></b>
+
+284
+00:22:38,530 --> 00:22:41,640
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Main jitni der chahe jag sakta hoon, aur Fern mujhe daant nahi sakti.</font></b>
+
+285
+00:22:42,803 --> 00:22:44,630
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Main bahut khush hoon, ye darawana hai.</font></b>
+
+286
+00:22:46,743 --> 00:22:48,488
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Lagta hai tera kuch kharab ho gaya hai, dost.</font></b>
+
+287
+00:22:50,291 --> 00:22:53,249
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Aur main theek hoon â™ª 
+(Main theek hoon)</font></b>
+
+288
+00:22:53,305 --> 00:22:56,100
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Haan, main tumhe sunta hoon â™ª
+(Mujhe tumse farq padta hai)</font></b>
+
+289
+00:22:56,237 --> 00:23:01,621
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Hawa is lambe baal ko chhedti hai 
+jo ab takda ho gaya hai â™ª</font></b>
+
+290
+00:23:01,696 --> 00:23:04,136
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Har cheez mein kuch na kuch matlab haiâ™ª </font></b>
+
+291
+00:23:04,959 --> 00:23:07,100
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Saare dinon mein, jo ruk gaye the â™ª</font></b>
+
+292
+00:23:08,065 --> 00:23:13,474
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Ab main akhirak samajh gaya hoon,
+maine tumhe pakad liya hai â™ª</font></b>
+
+293
+00:23:14,072 --> 00:23:17,375
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Dekho, woh cheezein jo nahi ho sakti thi â™ª</font></b>
+
+294
+00:23:17,490 --> 00:23:20,402
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Unko dekhne ka mauka na milta agar yeh aankhein na hoti â™ª</font></b>
+
+295
+00:23:20,521 --> 00:23:25,100
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Kyun? Woh bharne lagti hain â™ª </font></b>
+
+296
+00:23:25,225 --> 00:23:31,198
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Main tumse milne ke liye nahi poochunga, bas <â™ª/i></font></b>
+
+297
+00:23:31,534 --> 00:23:37,120
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Mujhe yaad rakhne do vyakti, 
+bas aaj ke liye â™ª</font></b>
+
+298
+00:23:37,263 --> 00:23:43,105
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Toh, agar hum phir se milte hain â™ª</font></b>
+
+299
+00:23:43,313 --> 00:23:49,010
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Aur koi hichkichahat nahi hogi, main vartaman ko chun lunga â™ª</font></b>
+
+
+
+301
+00:23:53,957 --> 00:23:57,687
+<b><font face="Adobe Fangsong Std R" color="#00fffc">(Har samay, kahin bhi)
+â™ª Mere liye muskurao â™ª</font></b>
+
+302
+00:23:57,748 --> 00:24:00,798
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Apni aankhen band karo,
+aur main hamesha tumhare saath rahunga â™ª</font></b>
+
+303
+00:24:00,823 --> 00:24:03,410
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Agar koi nishchit nahin hai bhi â™ª
+(Har samay, kahin bhi)</font></b>
+
+304
+00:24:03,410 --> 00:24:06,480
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Main hamesha tumhare vichar ko samajh raha hoon â™ª
+(Har samay, kahin bhi)</font></b>
+
+305
+00:24:06,480 --> 00:24:12,510
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Woh aansoo theek honge,
+subah avashya aayegi â™ª</font></b>
+
+306
+00:24:12,985 --> 00:24:19,420
+<b><font face="Adobe Fangsong Std R" color="#00fffc">â™ª Main tumhare ghar laut aane ke liye hamari lori suna raha hoon â™ª</font></b>
+
+307
+00:24:20,080 --> 00:24:21,220
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Main nahi baat kar raha.</font></b>
+
+308
+00:24:20,660 --> 00:24:22,980
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Chinta mat karo, Ms. Frieren.</font></b>
+
+309
+00:24:21,020 --> 00:24:22,980
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Uske bare me mat bolo.</font></b>
+
+310
+00:24:22,650 --> 00:24:26,020
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tum meri tarah aur bhi zyada spoiled ho.</font></b>
+
+311
+00:24:23,000 --> 00:24:26,040
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Yeh mera janamdin nahi hai.
+Main aise khul kar nahi kar sakta.</font></b>
+
+312
+00:24:23,780 --> 00:24:26,040
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Tumhe apne sabzi khana chahiye.</font></b>
+
+313
+00:24:26,040 --> 00:24:27,940
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Yeh vyakti bahut takleef ho raha hai.</font></b>
+
+314
+00:24:26,260 --> 00:24:27,950
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Hum ab party members nahi hain.</font></b>
+
+315
+00:24:27,570 --> 00:24:30,020
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Episode 22:
+Aane Wale Dushman</font></b>
+
+316
+00:24:27,950 --> 00:24:30,090
+<b><font face="Adobe Fangsong Std R" color="#00fffc">Agli baar, hum dushman honge.</font></b>
