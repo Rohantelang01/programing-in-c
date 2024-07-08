@@ -8,7 +8,10 @@ int factorial(int n) {
     }
     // Recursive case: factorial(n) = n * factorial(n-1)
     else {
+
+        printf("%d \n",n);
         return n * factorial(n - 1);
+       
         // in this recursion metho n* treat like n*= n-1 assignment oprator
         // 1: 5-1 = 4
         // 2: 4-1 = 3

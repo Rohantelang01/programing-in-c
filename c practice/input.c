@@ -42,4 +42,4 @@ int main()
   fgets(fullname2, sizeof(fullname2), stdin);
   printf("%s \n", fullname2);
   return 0;
-}
+

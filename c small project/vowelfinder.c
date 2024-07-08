@@ -1,35 +1,23 @@
 #include <stdio.h>
-#include <stdlib.h> my na
 #include <string.h>
 
-int main() {
-    char vowel[] = {'a', 'e', 'i', 'o', 'u'};
-    char *input = NULL; // Declare input as a pointer
-    size_t input_size = 0;
-
-    // Read the input string
-    printf("Enter a string: ");
-    getline(&input, &input_size, stdin);
-
-    char output[input_size]; // Size of output array matches input string size
-    memset(output, 0, sizeof(output)); // Initialize output array with null characters
-
-    // Iterate over each character in the input string
-    for (size_t i = 0; i < input_size; i++) {
-        // Check if the character is a vowel
-        for (int j = 0; j < 5; j++) {
-            if (input[i] == vowel[j]) {
-                strncat(output, &input[i], 1); // Append vowel to output
-                break; // Exit the inner loop once a vowel is found
+int findVowels(char name[], char vowels[], int length) {
+    for (int i = 0; i < strlen(name); i++) {
+        for (int j = 0; j < length; j++) {
+            if (name[i] == vowels[j]) {
+                printf("%c \n", name[i]);
             }
         }
     }
-
-    printf("Vowels found in the input string: %s\n", output);
-
-    // Free dynamically allocated memory
-    free(input);
-
     return 0;
 }
 
+void main(){
+    char name[30];
+    printf("Enter Your Name\n");
+    scanf("%s", &name);
+   char vowels[] = {'a','e','i','o','u','\0'};
+   int length = sizeof(vowels);
+   findVowels(name,vowels,length);
+  
+}

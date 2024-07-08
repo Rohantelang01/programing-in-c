@@ -1,7 +1,7 @@
 #include <stdio.h>
+#include <string.h>
 int main(){
     int array[5] = { 3,5,6,6,6,};
-   
     // sizeof method use for chake length of array
     printf("%lu \n",sizeof(array));
     // outpute 20 because the sizeof operator returns 

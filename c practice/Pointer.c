@@ -13,7 +13,7 @@ int* ptr2 = &age;// A poimter variable with the naem ptr, type store tje address
 // output the value of age (58)
 printf("%d\n", age);
 printf("%p\n", &age);
-printf("%p\n",ptr);
+printf("%p\n",ptr2);
 printf("%p\n",ptr2);
 /*Dereference
 In the example above, we used the pointer variable to get the memory address of a variable (used together with the & reference operator).

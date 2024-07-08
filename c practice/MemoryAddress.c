@@ -19,7 +19,7 @@ Note: The memory address is in hexadecimal form (0x..). You will probably not ge
 
 You should also note that &myAge is often called a "pointer". A pointer basically stores the memory address of a variable as its value. To print pointer values, we use the %p format specifier.
 
-You will learn much more about pointers in the next chapter.
+
 
 Why is it useful to know the memory address?
 Pointers are important in C, because they allow us to manipulate the data in the computer's memory - this can reduce the code and improve the performance.
